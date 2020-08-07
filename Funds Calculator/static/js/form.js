@@ -3,6 +3,8 @@ $(document).ready(function()
 
     $('.datepicker').datetimepicker({
         format: 'DD-MM-YYYY',
+        minDate: '2015-04-01T00:00:00-00:01',
+        maxDate: '2020-08-01T00:00:00-00:01',
         icons: {
           previous: "fas fa-chevron-left",
           next: "fas fa-chevron-right",
