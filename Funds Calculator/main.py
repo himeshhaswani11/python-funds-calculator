@@ -136,4 +136,4 @@ def get_current_value():
         return{'status':2, 'data': 'Technical Issue.'}
 
 if __name__ == '__main__':
-    app.run(debug=True, port=6005)
+    app.run()
