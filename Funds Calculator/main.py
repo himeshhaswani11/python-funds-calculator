@@ -5,23 +5,24 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET','POST'])
 def home():
-    with open("fund_list.json", "r") as fund_list_file:
-        data = json.load(fund_list_file)
+    # with open("fund_list.json", "r") as fund_list_file:
+    #     data = json.load(fund_list_file)
 
-    code = []
+    # code = []
 
-    category = list(data.keys())
-    for rec in category:
-        if data.get(rec).get('code'):
-            code.append("{} - {}".format(data.get(rec).get('code'), data.get(rec).get('name')))
+    # category = list(data.keys())
+    # for rec in category:
+    #     if data.get(rec).get('code'):
+    #         code.append("{} - {}".format(data.get(rec).get('code'), data.get(rec).get('name')))
 
-        else:
-            sub_category = data.get(rec).keys()
-            for sub_rec in sub_category:
-                if data.get(rec).get(sub_rec).get('code'):
-                    code.append("{} - {}".format(data.get(rec).get(sub_rec).get('code'), data.get(rec).get(sub_rec).get('name')))
+    #     else:
+    #         sub_category = data.get(rec).keys()
+    #         for sub_rec in sub_category:
+    #             if data.get(rec).get(sub_rec).get('code'):
+    #                 code.append("{} - {}".format(data.get(rec).get(sub_rec).get('code'), data.get(rec).get(sub_rec).get('name')))
+    return render_template('main.html')
 
-    return render_template('main.html', category=category[1:], code=code)
+    # return render_template('main.html', category=category[1:], code=code)
 
 @app.route('/temp', methods=['GET','POST'])
 def temp():
