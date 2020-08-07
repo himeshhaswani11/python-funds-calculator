@@ -1,0 +1,950 @@
+{
+    "Scheme Name": {
+        "code": "Scheme Code",
+        "name": "Scheme Name"
+    },
+    "Axis Multicap Fund": {
+        "141926 - Direct Plan - Dividend": {
+            "code": "141926",
+            "name": "Axis Multicap Fund - Direct Plan - Dividend"
+        },
+        "141925 - Direct Plan - Growth": {
+            "code": "141925",
+            "name": "Axis Multicap Fund - Direct Plan - Growth"
+        },
+        "141928 - Regular Plan - Dividend": {
+            "code": "141928",
+            "name": "Axis Multicap Fund - Regular Plan - Dividend"
+        },
+        "141927 - Regular Plan - Growth": {
+            "code": "141927",
+            "name": "Axis Multicap Fund - Regular Plan - Growth"
+        }
+    },
+    "Axis Bluechip Fund": {
+        "120466 - Direct Plan - Dividend": {
+            "code": "120466",
+            "name": "Axis Bluechip Fund - Direct Plan - Dividend"
+        },
+        "120465 - Direct Plan - Growth": {
+            "code": "120465",
+            "name": "Axis Bluechip Fund - Direct Plan - Growth"
+        },
+        "112278 - Regular Plan - Dividend": {
+            "code": "112278",
+            "name": "Axis Bluechip Fund - Regular Plan - Dividend"
+        },
+        "112277 - Regular Plan - Growth": {
+            "code": "112277",
+            "name": "Axis Bluechip Fund - Regular Plan - Growth"
+        }
+    },
+    "Axis Growth Opportunities Fund": {
+        "145109 - Direct Plan - Dividend": {
+            "code": "145109",
+            "name": "Axis Growth Opportunities Fund - Direct Plan - Dividend"
+        },
+        "145110 - Direct Plan - Growth": {
+            "code": "145110",
+            "name": "Axis Growth Opportunities Fund - Direct Plan - Growth"
+        },
+        "145111 - Regular Plan - Dividend": {
+            "code": "145111",
+            "name": "Axis Growth Opportunities Fund - Regular Plan - Dividend"
+        },
+        "145112 - Regular Plan - Growth": {
+            "code": "145112",
+            "name": "Axis Growth Opportunities Fund - Regular Plan - Growth"
+        }
+    },
+    "Axis Midcap Fund": {
+        "120504 - Direct Plan - Dividend": {
+            "code": "120504",
+            "name": "Axis Midcap Fund - Direct Plan - Dividend"
+        },
+        "120505 - Direct Plan - Growth": {
+            "code": "120505",
+            "name": "Axis Midcap Fund - Direct Plan - Growth"
+        },
+        "114565 - Regular Plan - Dividend": {
+            "code": "114565",
+            "name": "Axis Midcap Fund - Regular Plan - Dividend"
+        },
+        "114564 - Regular Plan - Growth": {
+            "code": "114564",
+            "name": "Axis Midcap Fund - Regular Plan - Growth"
+        }
+    },
+    "Axis Small Cap Fund": {
+        "125351 - Direct Plan - Dividend": {
+            "code": "125351",
+            "name": "Axis Small Cap Fund - Direct Plan - Dividend"
+        },
+        "125354 - Direct Plan - Growth": {
+            "code": "125354",
+            "name": "Axis Small Cap Fund - Direct Plan - Growth"
+        },
+        "125352 - Regular Plan - Dividend": {
+            "code": "125352",
+            "name": "Axis Small Cap Fund - Regular Plan - Dividend"
+        },
+        "125350 - Regular Plan - Growth": {
+            "code": "125350",
+            "name": "Axis Small Cap Fund - Regular Plan - Growth"
+        }
+    },
+    "Axis Focused 25 Fund": {
+        "120467 - Direct Plan - Dividend Option": {
+            "code": "120467",
+            "name": "Axis Focused 25 Fund - Direct Plan - Dividend Option"
+        },
+        "120468 - Direct Plan - Growth Option": {
+            "code": "120468",
+            "name": "Axis Focused 25 Fund - Direct Plan - Growth Option"
+        },
+        "117559 - Regular Plan - Dividend Option": {
+            "code": "117559",
+            "name": "Axis Focused 25 Fund - Regular Plan - Dividend Option"
+        },
+        "117560 - Regular Plan - Growth Option": {
+            "code": "117560",
+            "name": "Axis Focused 25 Fund - Regular Plan - Growth Option"
+        }
+    },
+    "Axis ESG Equity Fund": {
+        "147931 - Direct Plan - Dividend Option": {
+            "code": "147931",
+            "name": "Axis ESG Equity Fund - Direct Plan - Dividend Option"
+        },
+        "147928 - Direct Plan - Growth Option": {
+            "code": "147928",
+            "name": "Axis ESG Equity Fund - Direct Plan - Growth Option"
+        },
+        "147930 - Regular Plan - Dividend Option": {
+            "code": "147930",
+            "name": "Axis ESG Equity Fund - Regular Plan - Dividend Option"
+        },
+        "147929 - Regular Plan - Growth Option": {
+            "code": "147929",
+            "name": "Axis ESG Equity Fund - Regular Plan - Growth Option"
+        }
+    },
+    "Axis Long Term Equity Fund": {
+        "120502 - Direct Plan - Dividend option": {
+            "code": "120502",
+            "name": "Axis Long Term Equity Fund - Direct Plan - Dividend option"
+        },
+        "120503 - Direct Plan - Growth Option": {
+            "code": "120503",
+            "name": "Axis Long Term Equity Fund - Direct Plan - Growth Option"
+        },
+        "112322 - Regular Plan - Dividend": {
+            "code": "112322",
+            "name": "Axis Long Term Equity Fund - Regular Plan - Dividend"
+        },
+        "112323 - Regular Plan - Growth": {
+            "code": "112323",
+            "name": "Axis Long Term Equity Fund - Regular Plan - Growth"
+        }
+    },
+    "Axis Overnight Fund": {
+        "146679 - Direct Plan - Daily Dividend Option": {
+            "code": "146679",
+            "name": "Axis Overnight Fund - Direct Plan - Daily Dividend Option"
+        },
+        "146675 - Direct Plan - Growth Option": {
+            "code": "146675",
+            "name": "Axis Overnight Fund - Direct Plan - Growth Option"
+        },
+        "146677 - Direct Plan - Monthly Dividend Option": {
+            "code": "146677",
+            "name": "Axis Overnight Fund - Direct Plan - Monthly Dividend Option"
+        },
+        "146676 - Direct Plan - Weekly Dividend Option": {
+            "code": "146676",
+            "name": "Axis Overnight Fund - Direct Plan - Weekly Dividend Option"
+        },
+        "146682 - Regular Plan - Daily Dividend Option": {
+            "code": "146682",
+            "name": "Axis Overnight Fund - Regular Plan - Daily Dividend Option"
+        },
+        "146678 - Regular Plan - Growth Option": {
+            "code": "146678",
+            "name": "Axis Overnight Fund - Regular Plan - Growth Option"
+        },
+        "146681 - Regular Plan - Monthly Dividend Option": {
+            "code": "146681",
+            "name": "Axis Overnight Fund - Regular Plan - Monthly Dividend Option"
+        },
+        "146680 - Regular Plan - Weekly Dividend Option": {
+            "code": "146680",
+            "name": "Axis Overnight Fund - Regular Plan - Weekly Dividend Option"
+        }
+    },
+    "Axis Liquid Fund": {
+        "128954 - Direct plan - Bonus Option": {
+            "code": "128954",
+            "name": "Axis Liquid Fund - Direct plan - Bonus Option"
+        },
+        "120388 - Direct Plan - Daily Dividend Option": {
+            "code": "120388",
+            "name": "Axis Liquid Fund - Direct Plan - Daily Dividend Option"
+        },
+        "120389 - Direct Plan - Growth Option": {
+            "code": "120389",
+            "name": "Axis Liquid Fund - Direct Plan - Growth Option"
+        },
+        "120391 - Direct Plan - Monthly Dividend Option": {
+            "code": "120391",
+            "name": "Axis Liquid Fund - Direct Plan - Monthly Dividend Option"
+        },
+        "120390 - Direct Plan - Weekly Dividend Option": {
+            "code": "120390",
+            "name": "Axis Liquid Fund - Direct Plan - Weekly Dividend Option"
+        },
+        "112211 - Regular Plan - Daily Dividend Option": {
+            "code": "112211",
+            "name": "Axis Liquid Fund - Regular Plan - Daily Dividend Option"
+        },
+        "112210 - Regular Plan - Growth Option": {
+            "code": "112210",
+            "name": "Axis Liquid Fund - Regular Plan - Growth Option"
+        },
+        "112213 - Regular Plan - Monthly Dividend Option": {
+            "code": "112213",
+            "name": "Axis Liquid Fund - Regular Plan - Monthly Dividend Option"
+        },
+        "112212 - Regular Plan - Weekly Dividend Option": {
+            "code": "112212",
+            "name": "Axis Liquid Fund - Regular Plan - Weekly Dividend Option"
+        },
+        "112712 - Retail Plan - Daily Dividend Option": {
+            "code": "112712",
+            "name": "Axis Liquid Fund - Retail Plan - Daily Dividend Option"
+        },
+        "112713 - Retail Plan - Growth Option": {
+            "code": "112713",
+            "name": "Axis Liquid Fund - Retail Plan - Growth Option"
+        },
+        "112714 - Retail Plan - Monthly Dividend Option": {
+            "code": "112714",
+            "name": "Axis Liquid Fund - Retail Plan - Monthly Dividend Option"
+        },
+        "112715 - Retail Plan - Weekly Dividend Option": {
+            "code": "112715",
+            "name": "Axis Liquid Fund - Retail Plan - Weekly Dividend Option"
+        }
+    },
+    "Axis Ultra Short Term Fund": {
+        "144753 - Direct Plan Daily Dividend Reinvestment": {
+            "code": "144753",
+            "name": "Axis Ultra Short Term Fund - Direct Plan Daily Dividend Reinvestment"
+        },
+        "144754 - Direct Plan Growth": {
+            "code": "144754",
+            "name": "Axis Ultra Short Term Fund - Direct Plan Growth"
+        },
+        "144755 - Direct Plan Monthly Dividend": {
+            "code": "144755",
+            "name": "Axis Ultra Short Term Fund - Direct Plan Monthly Dividend"
+        },
+        "144756 - Direct Plan Regular Dividend": {
+            "code": "144756",
+            "name": "Axis Ultra Short Term Fund - Direct Plan Regular Dividend"
+        },
+        "144757 - Direct Plan Weekly Dividend": {
+            "code": "144757",
+            "name": "Axis Ultra Short Term Fund - Direct Plan Weekly Dividend"
+        },
+        "144758 - Regular Plan Daily Dividend Reinvestment": {
+            "code": "144758",
+            "name": "Axis Ultra Short Term Fund - Regular Plan Daily Dividend Reinvestment"
+        },
+        "144759 - Regular Plan Growth": {
+            "code": "144759",
+            "name": "Axis Ultra Short Term Fund - Regular Plan Growth"
+        },
+        "144760 - Regular Plan Monthly Dividend": {
+            "code": "144760",
+            "name": "Axis Ultra Short Term Fund - Regular Plan Monthly Dividend"
+        },
+        "144761 - Regular Plan Regular Dividend": {
+            "code": "144761",
+            "name": "Axis Ultra Short Term Fund - Regular Plan Regular Dividend"
+        },
+        "144762 - Regular Plan Weekly Dividend": {
+            "code": "144762",
+            "name": "Axis Ultra Short Term Fund - Regular Plan Weekly Dividend"
+        }
+    },
+    "Axis Treasury Advantage Fund": {
+        "128961 - Direct Plan - Bonus Option": {
+            "code": "128961",
+            "name": "Axis Treasury Advantage Fund - Direct Plan - Bonus Option"
+        },
+        "120515 - Direct Plan - Daily Dividend Option": {
+            "code": "120515",
+            "name": "Axis Treasury Advantage Fund - Direct Plan - Daily Dividend Option"
+        },
+        "120513 - Direct Plan - Growth Option": {
+            "code": "120513",
+            "name": "Axis Treasury Advantage Fund - Direct Plan - Growth Option"
+        },
+        "120516 - Direct Plan - Monthly Dividend Option": {
+            "code": "120516",
+            "name": "Axis Treasury Advantage Fund - Direct Plan - Monthly Dividend Option"
+        },
+        "120514 - Direct Plan - Weekly Dividend Option": {
+            "code": "120514",
+            "name": "Axis Treasury Advantage Fund - Direct Plan - Weekly Dividend Option"
+        },
+        "112216 - Institutional Plan - Weekly Dividend Option": {
+            "code": "112216",
+            "name": "Axis Treasury Advantage Fund - Institutional Plan - Weekly Dividend Option"
+        },
+        "112215 - Regular Plan - Daily Dividend Option": {
+            "code": "112215",
+            "name": "Axis Treasury Advantage Fund - Regular Plan - Daily Dividend Option"
+        },
+        "112214 - Regular Plan - Growth Option": {
+            "code": "112214",
+            "name": "Axis Treasury Advantage Fund - Regular Plan - Growth Option"
+        },
+        "112217 - Regular Plan - Monthly Dividend Option": {
+            "code": "112217",
+            "name": "Axis Treasury Advantage Fund - Regular Plan - Monthly Dividend Option"
+        },
+        "112720 - Retail Plan - Daily Dividend Option": {
+            "code": "112720",
+            "name": "Axis Treasury Advantage Fund - Retail Plan - Daily Dividend Option"
+        },
+        "112717 - Retail Plan - Growth Option": {
+            "code": "112717",
+            "name": "Axis Treasury Advantage Fund - Retail Plan - Growth Option"
+        },
+        "112718 - Retail Plan - Monthly Dividend Option": {
+            "code": "112718",
+            "name": "Axis Treasury Advantage Fund - Retail Plan - Monthly Dividend Option"
+        },
+        "112719 - Retail Plan - Weekly Dividend Option": {
+            "code": "112719",
+            "name": "Axis Treasury Advantage Fund - Retail Plan - Weekly Dividend Option"
+        }
+    },
+    "Axis Money Market Fund": {
+        "147576 - Direct Plan - Annual Dividend Option": {
+            "code": "147576",
+            "name": "Axis Money Market Fund - Direct Plan - Annual Dividend Option"
+        },
+        "147571 - Direct Plan - Daily Dividend Option": {
+            "code": "147571",
+            "name": "Axis Money Market Fund - Direct Plan - Daily Dividend Option"
+        },
+        "147567 - Direct Plan - Growth Option": {
+            "code": "147567",
+            "name": "Axis Money Market Fund - Direct Plan - Growth Option"
+        },
+        "147572 - Direct Plan - Monthly Dividend Option": {
+            "code": "147572",
+            "name": "Axis Money Market Fund - Direct Plan - Monthly Dividend Option"
+        },
+        "147573 - Direct Plan - Quarterly Dividend Option": {
+            "code": "147573",
+            "name": "Axis Money Market Fund - Direct Plan - Quarterly Dividend Option"
+        },
+        "147575 - Regular Plan - Annual Dividend Option": {
+            "code": "147575",
+            "name": "Axis Money Market Fund - Regular Plan - Annual Dividend Option"
+        },
+        "147577 - Regular Plan - Daily Dividend Option": {
+            "code": "147577",
+            "name": "Axis Money Market Fund - Regular Plan - Daily Dividend Option"
+        },
+        "147568 - Regular Plan - Growth Option": {
+            "code": "147568",
+            "name": "Axis Money Market Fund - Regular Plan - Growth Option"
+        },
+        "147578 - Regular Plan - Monthly Dividend Option": {
+            "code": "147578",
+            "name": "Axis Money Market Fund - Regular Plan - Monthly Dividend Option"
+        },
+        "147574 - Regular Plan - Quarterly Dividend Option": {
+            "code": "147574",
+            "name": "Axis Money Market Fund - Regular Plan - Quarterly Dividend Option"
+        }
+    },
+    "Axis Short Term Fund": {
+        "120510 - Direct Plan - Growth Option": {
+            "code": "120510",
+            "name": "Axis Short Term Fund - Direct Plan - Growth Option"
+        },
+        "120511 - Direct Plan - Monthly Dividend Option": {
+            "code": "120511",
+            "name": "Axis Short Term Fund - Direct Plan - Monthly Dividend Option"
+        },
+        "133894 - Direct Plan - Regular Dividend Option": {
+            "code": "133894",
+            "name": "Axis Short Term Fund - Direct Plan - Regular Dividend Option"
+        },
+        "120512 - Direct Plan - Weekly Dividend Option": {
+            "code": "120512",
+            "name": "Axis Short Term Fund - Direct Plan - Weekly Dividend Option"
+        },
+        "128950 - Regular Plan - Bonus Option": {
+            "code": "128950",
+            "name": "Axis Short Term Fund - Regular Plan - Bonus Option"
+        },
+        "112354 - Regular Plan - Growth Option": {
+            "code": "112354",
+            "name": "Axis Short Term Fund - Regular Plan - Growth Option"
+        },
+        "112355 - Regular Plan - Monthly Dividend Option": {
+            "code": "112355",
+            "name": "Axis Short Term Fund - Regular Plan - Monthly Dividend Option"
+        },
+        "133895 - Regular Plan - Regular Dividend Option": {
+            "code": "133895",
+            "name": "Axis Short Term Fund - Regular Plan - Regular Dividend Option"
+        },
+        "112369 - Regular Plan - Weekly Dividend Option": {
+            "code": "112369",
+            "name": "Axis Short Term Fund - Regular Plan - Weekly Dividend Option"
+        },
+        "112721 - Retail Plan - Growth Option": {
+            "code": "112721",
+            "name": "Axis Short Term Fund - Retail Plan - Growth Option"
+        },
+        "112723 - Retail Plan - Monthly Dividend Option": {
+            "code": "112723",
+            "name": "Axis Short Term Fund - Retail Plan - Monthly Dividend Option"
+        },
+        "112722 - Retail Plan - Weekly Dividend Option": {
+            "code": "112722",
+            "name": "Axis Short Term Fund - Retail Plan - Weekly Dividend Option"
+        }
+    },
+    "Axis Strategic Bond Fund": {
+        "120475 - Direct Plan - Growth Option": {
+            "code": "120475",
+            "name": "Axis Strategic Bond Fund - Direct Plan - Growth Option"
+        },
+        "120474 - Direct Plan - Half Yearly Dividend option": {
+            "code": "120474",
+            "name": "Axis Strategic Bond Fund - Direct Plan - Half Yearly Dividend option"
+        },
+        "120476 - Direct Plan - Quarterly Dividend option": {
+            "code": "120476",
+            "name": "Axis Strategic Bond Fund - Direct Plan - Quarterly Dividend option"
+        },
+        "116894 - Regular Plan - Growth Option": {
+            "code": "116894",
+            "name": "Axis Strategic Bond Fund - Regular Plan - Growth Option"
+        },
+        "116896 - Regular Plan - Half Yearly Dividend Option": {
+            "code": "116896",
+            "name": "Axis Strategic Bond Fund - Regular Plan - Half Yearly Dividend Option"
+        },
+        "116895 - Regular Plan - Quarterly Dividend Option": {
+            "code": "116895",
+            "name": "Axis Strategic Bond Fund - Regular Plan - Quarterly Dividend Option"
+        }
+    },
+    "Axis Dynamic Bond Fund": {
+        "115131 - Regular Plan - Half Yearly Dividend option": {
+            "code": "115131",
+            "name": "Axis Dynamic Bond Fund  - Regular Plan - Half Yearly Dividend option"
+        },
+        "120451 - Direct Plan - Growth Option": {
+            "code": "120451",
+            "name": "Axis Dynamic Bond Fund - Direct Plan - Growth Option"
+        },
+        "120450 - Direct Plan - Half Yearly Dividend Option": {
+            "code": "120450",
+            "name": "Axis Dynamic Bond Fund - Direct Plan - Half Yearly Dividend Option"
+        },
+        "120452 - Direct Plan - Quarterly Dividend Option": {
+            "code": "120452",
+            "name": "Axis Dynamic Bond Fund - Direct Plan - Quarterly Dividend Option"
+        },
+        "115068 - Regular Plan - Growth Option": {
+            "code": "115068",
+            "name": "Axis Dynamic Bond Fund - Regular Plan - Growth Option"
+        },
+        "115069 - Regular Plan - Quarterly Dividend option": {
+            "code": "115069",
+            "name": "Axis Dynamic Bond Fund - Regular Plan - Quarterly Dividend option"
+        }
+    },
+    "Axis Corporate Debt Fund": {
+        "141586 - Direct Plan Daily Dividend Reinvestment": {
+            "code": "141586",
+            "name": "Axis Corporate Debt Fund - Direct Plan Daily Dividend Reinvestment"
+        },
+        "141588 - Direct Plan Growth": {
+            "code": "141588",
+            "name": "Axis Corporate Debt Fund - Direct Plan Growth"
+        },
+        "141590 - Direct Plan Monthly Dividend": {
+            "code": "141590",
+            "name": "Axis Corporate Debt Fund - Direct Plan Monthly Dividend"
+        },
+        "141591 - Direct Plan Regular Dividend": {
+            "code": "141591",
+            "name": "Axis Corporate Debt Fund - Direct Plan Regular Dividend"
+        },
+        "141587 - Direct Plan Weekly Dividend": {
+            "code": "141587",
+            "name": "Axis Corporate Debt Fund - Direct Plan Weekly Dividend"
+        },
+        "141589 - Regular Plan Daily Dividend Reinvestment": {
+            "code": "141589",
+            "name": "Axis Corporate Debt Fund - Regular Plan Daily Dividend Reinvestment"
+        },
+        "141593 - Regular Plan Growth": {
+            "code": "141593",
+            "name": "Axis Corporate Debt Fund - Regular Plan Growth"
+        },
+        "141594 - Regular Plan Monthly Dividend": {
+            "code": "141594",
+            "name": "Axis Corporate Debt Fund - Regular Plan Monthly Dividend"
+        },
+        "141595 - Regular Plan Regular Dividend": {
+            "code": "141595",
+            "name": "Axis Corporate Debt Fund - Regular Plan Regular Dividend"
+        },
+        "141592 - Regular Plan Weekly Dividend": {
+            "code": "141592",
+            "name": "Axis Corporate Debt Fund - Regular Plan Weekly Dividend"
+        }
+    },
+    "Axis Credit Risk Fund": {
+        "130314 - Direct Plan - Growth": {
+            "code": "130314",
+            "name": "Axis Credit Risk Fund - Direct Plan - Growth"
+        },
+        "130312 - Direct Plan - Monthly Dividend": {
+            "code": "130312",
+            "name": "Axis Credit Risk Fund - Direct Plan - Monthly Dividend"
+        },
+        "130311 - Direct Plan - Weekly Dividend": {
+            "code": "130311",
+            "name": "Axis Credit Risk Fund - Direct Plan - Weekly Dividend"
+        },
+        "130309 - Regular Plan - Growth": {
+            "code": "130309",
+            "name": "Axis Credit Risk Fund - Regular Plan - Growth"
+        },
+        "130313 - Regular Plan - Monthly Dividend": {
+            "code": "130313",
+            "name": "Axis Credit Risk Fund - Regular Plan - Monthly Dividend"
+        },
+        "130310 - Regular Plan - weekly Dividend": {
+            "code": "130310",
+            "name": "Axis Credit Risk Fund - Regular Plan - weekly Dividend"
+        }
+    },
+    "Axis Banking & PSU Debt Fund": {
+        "128952 - Direct Plan - Bonus Option": {
+            "code": "128952",
+            "name": "Axis Banking & PSU Debt Fund - Direct Plan - Bonus Option"
+        },
+        "120437 - Direct Plan - Daily Dividend Option": {
+            "code": "120437",
+            "name": "Axis Banking & PSU Debt Fund - Direct Plan - Daily Dividend Option"
+        },
+        "120438 - Direct Plan - Growth Option": {
+            "code": "120438",
+            "name": "Axis Banking & PSU Debt Fund - Direct Plan - Growth Option"
+        },
+        "120439 - Direct Plan - Monthly Dividend Option": {
+            "code": "120439",
+            "name": "Axis Banking & PSU Debt Fund - Direct Plan - Monthly Dividend Option"
+        },
+        "120436 - Direct Plan - Weekly Dividend Option": {
+            "code": "120436",
+            "name": "Axis Banking & PSU Debt Fund - Direct Plan - Weekly Dividend Option"
+        },
+        "128953 - Regular Plan - Bonus Option": {
+            "code": "128953",
+            "name": "Axis Banking & PSU Debt Fund - Regular Plan - Bonus Option"
+        },
+        "117447 - Regular Plan - Daily Dividend Option": {
+            "code": "117447",
+            "name": "Axis Banking & PSU Debt Fund - Regular Plan - Daily Dividend Option"
+        },
+        "117446 - Regular Plan - Growth option": {
+            "code": "117446",
+            "name": "Axis Banking & PSU Debt Fund - Regular Plan - Growth option"
+        },
+        "117449 - Regular Plan - Monthly Dividend Option": {
+            "code": "117449",
+            "name": "Axis Banking & PSU Debt Fund - Regular Plan - Monthly Dividend Option"
+        },
+        "117448 - Regular Plan - Weekly Dividend option": {
+            "code": "117448",
+            "name": "Axis Banking & PSU Debt Fund - Regular Plan - Weekly Dividend option"
+        }
+    },
+    "Axis Gilt Fund": {
+        "128957 - Direct Plan - Bonus Option": {
+            "code": "128957",
+            "name": "Axis Gilt Fund - Direct Plan - Bonus Option"
+        },
+        "120447 - Direct Plan - Growth Option": {
+            "code": "120447",
+            "name": "Axis Gilt Fund - Direct Plan - Growth Option"
+        },
+        "120448 - Direct Plan - Half Yearly Dividend Option": {
+            "code": "120448",
+            "name": "Axis Gilt Fund - Direct Plan - Half Yearly Dividend Option"
+        },
+        "120449 - Direct Plan - Regular Dividend Option": {
+            "code": "120449",
+            "name": "Axis Gilt Fund - Direct Plan - Regular Dividend Option"
+        },
+        "116471 - Regular Plan - Growth Option": {
+            "code": "116471",
+            "name": "Axis Gilt Fund - Regular Plan - Growth Option"
+        },
+        "116472 - Regular Plan - Half Yearly Dividend Option": {
+            "code": "116472",
+            "name": "Axis Gilt Fund - Regular Plan - Half Yearly Dividend Option"
+        },
+        "116470 - Regular Plan - Regular Dividend Option": {
+            "code": "116470",
+            "name": "Axis Gilt Fund - Regular Plan - Regular Dividend Option"
+        }
+    },
+    "Axis Regular Saver Fund": {
+        "120478 - Direct Plan - Half Yearly": {
+            "code": "120478",
+            "name": "Axis Regular Saver Fund - Direct Plan - Half Yearly"
+        },
+        "120479 - Direct Plan - Quarterly": {
+            "code": "120479",
+            "name": "Axis Regular Saver Fund - Direct Plan - Quarterly"
+        },
+        "112927 - Regular Plan - Dividend Option - Annual Dividend Option": {
+            "code": "112927",
+            "name": "Axis Regular Saver Fund - Regular Plan - Dividend Option - Annual Dividend Option"
+        },
+        "112926 - Regular Plan - Dividend Option - Half Yearly": {
+            "code": "112926",
+            "name": "Axis Regular Saver Fund - Regular Plan - Dividend Option - Half Yearly"
+        },
+        "112925 - Regular Plan - Dividend Option - Quarterly": {
+            "code": "112925",
+            "name": "Axis Regular Saver Fund - Regular Plan - Dividend Option - Quarterly"
+        },
+        "112924 - Regular Plan - Growth Option": {
+            "code": "112924",
+            "name": "Axis Regular Saver Fund - Regular Plan - Growth Option"
+        },
+        "120477 - Direct Plan - Dividend Option - Annual Dividend Option": {
+            "code": "120477",
+            "name": "Axis Regular Saver Fund- Direct Plan - Dividend Option - Annual Dividend Option"
+        },
+        "120480 - Direct Plan - Growth Option": {
+            "code": "120480",
+            "name": "Axis Regular Saver Fund- Direct Plan - Growth Option"
+        }
+    },
+    "Axis Equity Hybrid Fund": {
+        "144394 - Direct Plan - Growth Option": {
+            "code": "144394",
+            "name": "Axis Equity Hybrid Fund - Direct Plan - Growth Option"
+        },
+        "144397 - Direct Plan - Monthly Dividend Option": {
+            "code": "144397",
+            "name": "Axis Equity Hybrid Fund - Direct Plan - Monthly Dividend Option"
+        },
+        "144398 - Direct Plan - Quarterly Dividend Option": {
+            "code": "144398",
+            "name": "Axis Equity Hybrid Fund - Direct Plan - Quarterly Dividend Option"
+        },
+        "144395 - Direct Plan - Regular Dividend Option": {
+            "code": "144395",
+            "name": "Axis Equity Hybrid Fund - Direct Plan - Regular Dividend Option"
+        },
+        "144393 - Regular Plan - Growth Option": {
+            "code": "144393",
+            "name": "Axis Equity Hybrid Fund - Regular Plan - Growth Option"
+        },
+        "144399 - Regular Plan - Monthly Dividend Option": {
+            "code": "144399",
+            "name": "Axis Equity Hybrid Fund - Regular Plan - Monthly Dividend Option"
+        },
+        "144400 - Regular Plan - Quarterly Dividend Option": {
+            "code": "144400",
+            "name": "Axis Equity Hybrid Fund - Regular Plan - Quarterly Dividend Option"
+        },
+        "144396 - Regular Plan - Regular Dividend Option": {
+            "code": "144396",
+            "name": "Axis Equity Hybrid Fund - Regular Plan - Regular Dividend Option"
+        }
+    },
+    "Axis Dynamic Equity Fund": {
+        "141643 - Direct Plan - Dividend": {
+            "code": "141643",
+            "name": "Axis Dynamic Equity Fund - Direct Plan - Dividend"
+        },
+        "141642 - Direct Plan - Growth": {
+            "code": "141642",
+            "name": "Axis Dynamic Equity Fund - Direct Plan - Growth"
+        },
+        "141645 - Regular Plan - Dividend": {
+            "code": "141645",
+            "name": "Axis Dynamic Equity Fund - Regular Plan - Dividend"
+        },
+        "141644 - Regular Plan - Growth": {
+            "code": "141644",
+            "name": "Axis Dynamic Equity Fund - Regular Plan - Growth"
+        }
+    },
+    "Axis Triple Advantage Fund": {
+        "120523 - Direct Plan - Dividend Option": {
+            "code": "120523",
+            "name": "Axis Triple Advantage Fund - Direct Plan - Dividend Option"
+        },
+        "120524 - Direct Plan - Growth Option": {
+            "code": "120524",
+            "name": "Axis Triple Advantage Fund - Direct Plan - Growth Option"
+        },
+        "113065 - Regular Plan - Dividend Option": {
+            "code": "113065",
+            "name": "Axis Triple Advantage Fund - Regular Plan - Dividend Option"
+        },
+        "113064 - Regular Plan - Growth Option": {
+            "code": "113064",
+            "name": "Axis Triple Advantage Fund - Regular Plan - Growth Option"
+        }
+    },
+    "Axis Arbitrage Fund": {
+        "130774 - Direct Plan - Dividend": {
+            "code": "130774",
+            "name": "Axis Arbitrage Fund - Direct Plan - Dividend"
+        },
+        "130773 - Direct Plan - Growth": {
+            "code": "130773",
+            "name": "Axis Arbitrage Fund - Direct Plan - Growth"
+        },
+        "130776 - Regular Plan - Dividend": {
+            "code": "130776",
+            "name": "Axis Arbitrage Fund - Regular Plan - Dividend"
+        },
+        "130771 - Regular Plan - Growth": {
+            "code": "130771",
+            "name": "Axis Arbitrage Fund - Regular Plan - Growth"
+        }
+    },
+    "Axis Equity Saver Fund": {
+        "135120 - Direct Plan - Growth": {
+            "code": "135120",
+            "name": "Axis Equity Saver Fund - Direct Plan - Growth"
+        },
+        "135121 - Direct Plan - Monthly Dividend": {
+            "code": "135121",
+            "name": "Axis Equity Saver Fund - Direct Plan - Monthly Dividend"
+        },
+        "135124 - Direct Plan - Quarterly Dividend": {
+            "code": "135124",
+            "name": "Axis Equity Saver Fund - Direct Plan - Quarterly Dividend"
+        },
+        "139520 - Direct Plan - Regular Dividend": {
+            "code": "139520",
+            "name": "Axis Equity Saver Fund - Direct Plan - Regular Dividend"
+        },
+        "135122 - Regular Plan - Growth": {
+            "code": "135122",
+            "name": "Axis Equity Saver Fund - Regular Plan - Growth"
+        },
+        "135123 - Regular Plan - Monthly Dividend": {
+            "code": "135123",
+            "name": "Axis Equity Saver Fund - Regular Plan - Monthly Dividend"
+        },
+        "135125 - Regular Plan - Quarterly Dividend": {
+            "code": "135125",
+            "name": "Axis Equity Saver Fund - Regular Plan - Quarterly Dividend"
+        },
+        "139521 - Regular Plan - Regular Dividend": {
+            "code": "139521",
+            "name": "Axis Equity Saver Fund - Regular Plan - Regular Dividend"
+        }
+    },
+    "Axis Retirement Savings Fund": {
+        "147822 - Aggressive Plan - Direct Dividend Payout": {
+            "code": "147822",
+            "name": "Axis Retirement Savings Fund - Aggressive Plan - Direct Dividend Payout"
+        },
+        "147825 - Aggressive Plan - Direct Growth": {
+            "code": "147825",
+            "name": "Axis Retirement Savings Fund - Aggressive Plan - Direct Growth"
+        },
+        "147824 - Aggressive Plan - Regular Dividend Payout": {
+            "code": "147824",
+            "name": "Axis Retirement Savings Fund - Aggressive Plan - Regular Dividend Payout"
+        },
+        "147823 - Aggressive Plan - Regular Growth": {
+            "code": "147823",
+            "name": "Axis Retirement Savings Fund - Aggressive Plan - Regular Growth"
+        },
+        "147831 - Conservative Plan - Direct Dividend Payout": {
+            "code": "147831",
+            "name": "Axis Retirement Savings Fund - Conservative Plan - Direct Dividend Payout"
+        },
+        "147830 - Conservative Plan - Direct Growth": {
+            "code": "147830",
+            "name": "Axis Retirement Savings Fund - Conservative Plan - Direct Growth"
+        },
+        "147833 - Conservative Plan - Regular Dividend Payout": {
+            "code": "147833",
+            "name": "Axis Retirement Savings Fund - Conservative Plan - Regular Dividend Payout"
+        },
+        "147832 - Conservative Plan - Regular Growth": {
+            "code": "147832",
+            "name": "Axis Retirement Savings Fund - Conservative Plan - Regular Growth"
+        },
+        "147827 - Dynamic Plan - Direct Dividend Payout": {
+            "code": "147827",
+            "name": "Axis Retirement Savings Fund - Dynamic Plan - Direct Dividend Payout"
+        },
+        "147826 - Dynamic Plan - Direct Growth": {
+            "code": "147826",
+            "name": "Axis Retirement Savings Fund - Dynamic Plan - Direct Growth"
+        },
+        "147829 - Dynamic Plan - Regular Dividend Payout": {
+            "code": "147829",
+            "name": "Axis Retirement Savings Fund - Dynamic Plan - Regular Dividend Payout"
+        },
+        "147828 - Dynamic Plan - Regular Growth": {
+            "code": "147828",
+            "name": "Axis Retirement Savings Fund - Dynamic Plan - Regular Growth"
+        }
+    },
+    "Axis Children's Gift Fund": {
+        "135765 - Lock in - Direct Dividend": {
+            "code": "135765",
+            "name": "Axis Children's Gift Fund - Lock in - Direct Dividend"
+        },
+        "135762 - Lock in - Direct Growth": {
+            "code": "135762",
+            "name": "Axis Children's Gift Fund - Lock in - Direct Growth"
+        },
+        "135760 - Lock in - Regular Dividend": {
+            "code": "135760",
+            "name": "Axis Children's Gift Fund - Lock in - Regular Dividend"
+        },
+        "135759 - Lock in - Regular Growth": {
+            "code": "135759",
+            "name": "Axis Children's Gift Fund - Lock in - Regular Growth"
+        },
+        "135763 - No Lock in - Direct Dividend": {
+            "code": "135763",
+            "name": "Axis Children's Gift Fund - No Lock in - Direct Dividend"
+        },
+        "135764 - No Lock in - Direct Growth": {
+            "code": "135764",
+            "name": "Axis Children's Gift Fund - No Lock in - Direct Growth"
+        },
+        "135761 - No Lock in - Regular Plan - Dividend": {
+            "code": "135761",
+            "name": "Axis Children's Gift Fund - No Lock in - Regular Plan - Dividend"
+        },
+        "135766 - No Lock in - Regular Plan - Growth": {
+            "code": "135766",
+            "name": "Axis Children's Gift Fund - No Lock in - Regular Plan - Growth"
+        }
+    },
+    "Axis Nifty 100 Index Fund": {
+        "147668 - Direct Plan - Dividend Option": {
+            "code": "147668",
+            "name": "Axis Nifty 100 Index Fund - Direct Plan - Dividend Option"
+        },
+        "147666 - Direct Plan - Growth Option": {
+            "code": "147666",
+            "name": "Axis Nifty 100 Index Fund - Direct Plan - Growth Option"
+        },
+        "147667 - Regular Plan - Dividend Option": {
+            "code": "147667",
+            "name": "Axis Nifty 100 Index Fund - Regular Plan - Dividend Option"
+        },
+        "147665 - Regular Plan - Growth Option": {
+            "code": "147665",
+            "name": "Axis Nifty 100 Index Fund - Regular Plan - Growth Option"
+        }
+    },
+    "Axis Gold ETF": {
+        "code": "113434",
+        "name": "Axis Gold ETF"
+    },
+    "Axis Nifty ETF": {
+        "code": "141545",
+        "name": "Axis Nifty ETF"
+    },
+    "Axis All Seasons Debt Fund of Fund": {
+        "147905 - Regular Plan - Quarterly Dividend Option": {
+            "code": "147905",
+            "name": "Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly Dividend Option"
+        }
+    },
+    "Axis All Seasons Debt Fund of Funds": {
+        "147895 - Direct Plan - Annual Dividend Option": {
+            "code": "147895",
+            "name": "Axis All Seasons Debt Fund of Funds - Direct Plan - Annual Dividend Option"
+        },
+        "147889 - Direct Plan - Growth Option": {
+            "code": "147889",
+            "name": "Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option"
+        },
+        "147892 - Direct Plan - Monthly Dividend Option": {
+            "code": "147892",
+            "name": "Axis All Seasons Debt Fund of Funds - Direct Plan - Monthly Dividend Option"
+        },
+        "147893 - Direct Plan - Quarterly Dividend Option": {
+            "code": "147893",
+            "name": "Axis All Seasons Debt Fund of Funds - Direct Plan - Quarterly Dividend Option"
+        },
+        "147891 - Direct Plan - Regular Dividend Option": {
+            "code": "147891",
+            "name": "Axis All Seasons Debt Fund of Funds - Direct Plan - Regular Dividend Option"
+        },
+        "147898 - Regular Plan - Annual Dividend Option": {
+            "code": "147898",
+            "name": "Axis All Seasons Debt Fund of Funds - Regular Plan - Annual Dividend Option"
+        },
+        "147890 - Regular Plan - Growth Option": {
+            "code": "147890",
+            "name": "Axis All Seasons Debt Fund of Funds - Regular Plan - Growth Option"
+        },
+        "147897 - Regular Plan - Half Yearly Dividend Option": {
+            "code": "147897",
+            "name": "Axis All Seasons Debt Fund of Funds - Regular Plan - Half Yearly Dividend Option"
+        },
+        "147896 - Regular Plan - Monthly Dividend Option": {
+            "code": "147896",
+            "name": "Axis All Seasons Debt Fund of Funds - Regular Plan - Monthly Dividend Option"
+        },
+        "147888 - Regular Plan - Regular Dividend Option": {
+            "code": "147888",
+            "name": "Axis All Seasons Debt Fund of Funds - Regular Plan - Regular Dividend Option"
+        }
+    },
+    "Axis Gold Fund": {
+        "120472 - Direct Plan - Dividend option": {
+            "code": "120472",
+            "name": "Axis Gold Fund - Direct Plan - Dividend option"
+        },
+        "120473 - Direct Plan - Growth option": {
+            "code": "120473",
+            "name": "Axis Gold Fund - Direct Plan - Growth option"
+        },
+        "115898 - Regular Plan - Dividend Option": {
+            "code": "115898",
+            "name": "Axis Gold Fund - Regular Plan - Dividend Option"
+        },
+        "115897 - Regular Plan - Growth Option": {
+            "code": "115897",
+            "name": "Axis Gold Fund - Regular Plan - Growth Option"
+        }
+    }
+}

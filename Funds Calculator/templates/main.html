@@ -1,0 +1,119 @@
+{% include "./header.html" %}
+    
+    <div class="container" style="min-height:840px;">
+            <div class="row align-items-center">
+                <div class="col-12 text-center mb-5">
+                    <br/><br/><h1 class="font-weight-light">Calculate your Investment</h1>
+                </div>                
+        </div>
+
+        <div class="alert alert-danger" style="display:none"></div>
+
+        <div class="row">
+            <br/><br/>
+            
+            <div class="col-md-6">
+                <h5 class="font-weight-light text-center">Search by Category</h5><hr>
+                <div class="form-group row">
+                    <label for="fund_category_cat" class="col-sm-4 col-form-label text-right">Category</label>
+                    <div class="col-sm-7">
+                        <select class="form-control required_cat" id="fund_category_cat" name="fund_category_cat">
+                            <option disabled selected>Select Category</option>
+                            {% for rec in category %}
+                            <option>{{rec}}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <label for="fund_sub_category_cat" class="col-sm-4 col-form-label text-right">Sub Category</label>
+                    <div class="col-sm-7">
+                        <select class="form-control required_cat" id="fund_sub_category_cat" name="fund_sub_category_cat">
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <label for="amount" class="col-sm-4 col-form-label text-right">Invested Amount</label>
+                    <div class="col-sm-7">
+                        <input type="text" class="form-control required_cat check-integer" id="invested_amount_cat" name="invested_amount_cat" placeholder="Enter Invested Amount">
+                    </div>
+                </div>                  
+            
+                <div class="form-group row">
+                    <label for="investment_date_cat" class="col-sm-4 col-form-label text-right">Investment Date</label>
+                    <div class="input-group col-sm-7">
+                        <input type="text" class="form-control datepicker required_cat" placeholder="Investment Date" name="investment_date_cat" id="investment_date_cat">
+                        <div class="input-group-append datepicker_cat">
+                            <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <h5 class="font-weight-light text-center">Search by Code</h5><hr>
+                <div class="form-group row">
+                    <label for="fund_category_code" class="col-sm-4 col-form-label text-right">Code</label>
+                    <div class="col-sm-7">
+                        <select class="form-control required_code" id="fund_category_code" name="fund_category_code">
+                            <option disabled selected>Select Code</option>
+                            {% for rec in code %}
+                            <option>{{rec}}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <label for="amount" class="col-sm-4 col-form-label text-right">Invested Amount</label>
+                    <div class="col-sm-7">
+                        <input type="text" class="form-control required_code check-integer" id="invested_amount_code" name="invested_amount_code" placeholder="Enter Invested Amount">
+                    </div>
+                </div>                  
+            
+                <div class="form-group row">
+                    <label for="investment_date_code" class="col-sm-4 col-form-label text-right">Investment Date</label>
+                    <div class="input-group col-sm-7">
+                        <input type="text" class="form-control datepicker required_code" placeholder="Investment Date" name="investment_date_code" id="investment_date_code">
+                        <div class="input-group-append datepicker_code">
+                            <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                        </div>
+                    </div>
+                </div>
+            </div>    
+        </div>
+
+        <div class="row" >
+            <div class="form-group ml-5 col-sm-5">
+                <button type="button" name="submit" class="btn btn-info float-right submit-data-cat">Check Value</button>
+            </div>
+            <div class="form-group col-sm-6">
+                <button type="button" name="submit" class="btn btn-info float-right submit-data-code">Check Value</button>
+            </div>
+        </div>        
+
+        <br/><br/>
+        
+        <div class="row net-value" style="display:none;">
+            <hr class="col-sm-12"/>
+            <h3 class="font-weight-light col-sm-12 text-center">Your Investment</h5>
+            <table class="table table-striped ml-4">
+                <thead class="thead-dark">
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Fund Name</th>
+                    <th scope="col">Invested Amount</th>
+                    <th scope="col">Investment Date</th>
+                    <th scope="col">Net Value</th>
+                  </tr>
+                </thead>
+                <tbody>
+                </tbody>
+              </table>
+        </div>
+    
+    </div>
+    
+{% include "./footer.html" %}
