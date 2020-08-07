@@ -1,6 +1,4 @@
-# python-flask
-
-## Funds Calculator
+# python-flask (Funds Calculator)
 
 
 ## All about investments.
@@ -24,6 +22,6 @@
 ### Fund Data -
 ![FundData](Funds%20Calculator/screenshots/5_FundData.jpg)
 
-###2: Then we worked on the view, where we choose to use jinja templating, to pull dynamic data in selection box.
+### 2: Then we worked on the view, where we choose to use jinja templating, to pull dynamic data in selection box.
 
-###3: Then we made use of Flask framework, to pull data on the templates.
+### 3: Then we made use of Flask framework, to pull data on the templates.
