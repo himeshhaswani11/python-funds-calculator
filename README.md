@@ -16,6 +16,8 @@
 
 ### 1: We first have written a code which is used to convert text file into the json format, where we have created two json file one for storing the list of funds and second is use for storing value.
 
+### Note: Run read_file.py to generate “fund_list.json” and “fund_data.json”
+
 ### Fund List -
 ![FundList](Funds%20Calculator/screenshots/4_FundList.jpg)
 
